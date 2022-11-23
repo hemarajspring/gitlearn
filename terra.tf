@@ -11,5 +11,6 @@ variable "account_id" {
 }
 variable "region" {
     description = "enter geographic value"
+    value = "eu-west-1"
   
 }
